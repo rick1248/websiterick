@@ -1,0 +1,7 @@
+h2,h3,h4 {
+    color: blue;
+}
+
+table.Navigation,th.Navigation,td.Navigation {
+    border: 1px solid black;
+}
